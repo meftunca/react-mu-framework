@@ -2,7 +2,7 @@
   "name": "react-mu-framework",
   "version": "1.0.0",
   "description": "Yeni nesil frontend framework",
-  "main": "app/index.js",
+  "main": "src/app/index.js",
   "scripts": {
     "test": "yarn"
   },
