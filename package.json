@@ -1,0 +1,39 @@
+{
+  "name": "react-mu-framework",
+  "version": "1.0.0",
+  "description": "Yeni nesil frontend framework",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/meftunca/react-mu-framework"
+  },
+  "keywords": [
+    "frontend",
+    "react",
+    "react",
+    "frontend",
+    "js",
+    "css",
+    "sass",
+    "scss",
+    "react",
+    "native"
+  ],
+  "author": "muhammed burak şentürk",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
